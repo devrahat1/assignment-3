@@ -1,0 +1,32 @@
+/* navbar section start */
+.nav-img{
+    max-width: 30% !important;
+    margin-right: 15px;
+}
+.nav-button{
+    background: #B68C5A;
+    border-radius: 8px;
+}
+.banner{
+    height: 550px;
+    background-image: url("./images/banner.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    margin-top: 30px;
+    
+    border-radius: 10px;
+}
+.banner-button{
+    background-color: #B68C5A;
+}
+.slider-img{
+    background-image: url('./images/banner.png');
+    height: 90vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+
+
